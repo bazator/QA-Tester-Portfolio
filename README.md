@@ -38,7 +38,7 @@ I’m continuously developing my skills in QA, automation, and data science.
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence) - documentation and knowledge sharing  
 [![DevTools](https://img.shields.io/badge/DevTools-007ACC?style=for-the-badge)]() - front-end inspection and debugging  
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]() - reporting and data handling  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() - basic/first steps in automation with pytest framework and data analysis  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() - basics/first steps in automation with pytest framework and data analysis  
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() - setup, configuration, troubleshooting
 
 
