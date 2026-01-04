@@ -13,8 +13,18 @@ I’m continuously developing my skills in QA, automation, and data science.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-zatorski-86b382222)
 
 ## Experience
+**Technical Support / Tester**  
+*10.2025 - Present*  
+- Working with internal CMS, WMS, and ERP systems (configuration, validation, and support)
+- Testing system functionalities and hardware devices (vending machines)
+- Providing first-line IT support and resolving system and application issues
+- Logging, analyzing, and reporting bugs (bug tracking and issue reproduction)
+- Installing, configuring, and updating software
+- Creating and maintaining technical documentation and user guides
+- Ensuring system quality, stability, and reliability
+
 **Trade Finance Systems Support Consultant**  
-*03.2023 - Present*  
+*03.2023 - 10.2025*  
 - Manual testing of financial systems  
 - Data analysis with SQL  
 - Technical documentation  
